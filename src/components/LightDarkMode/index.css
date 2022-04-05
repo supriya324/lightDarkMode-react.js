@@ -13,9 +13,6 @@
   border-radius: 10px;
   padding: 10px;
 }
-.heading {
-  color: #ffffff;
-}
 .button {
   font-family: 'Roboto';
   padding: 5px;
@@ -28,5 +25,5 @@
 .light-mode {
   color: #000000;
   background-color: #ffffff;
-  border-style: 2px solid #000000;
+  border: 2px solid #000000;
 }
